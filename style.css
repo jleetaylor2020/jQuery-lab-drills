@@ -1,0 +1,43 @@
+#container1 {
+    display: inline-block;
+    height: 20em;
+    width: 60em;
+    font-size: 18px;
+    text-align: center;
+    padding: 2em;
+    margin: 3em;
+}
+
+#heading1 {
+    font-size: 22px;
+    color: green;
+    
+}
+
+.top {
+    font-size: 36px;
+    color: pink;
+    text-align: center;
+}
+
+#btnSubmit {
+    border: 3px solid red;
+    background-color: yellow;
+    color: black;
+}
+
+
+#submitBtn {
+    border: 3px solid green;
+    background-color: yellowgreen;
+    color: white;
+}
+
+#container2 {
+    display: inline-block;
+    height: 300px;
+    width: 800px;
+    border: 2px solid pink;
+    font-size: 18px;
+    text-align: center;
+}
