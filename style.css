@@ -20,14 +20,14 @@
     text-align: center;
 }
 
-#btnSubmit {
+#btnSubmit1 {
     border: 3px solid red;
-    background-color: yellow;
+    background-color: purple;
     color: black;
 }
 
 
-#submitBtn {
+#btnSubmit2 {
     border: 3px solid green;
     background-color: yellowgreen;
     color: white;
