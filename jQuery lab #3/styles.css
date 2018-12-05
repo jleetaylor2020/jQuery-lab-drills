@@ -19,6 +19,7 @@
 
 .keyboard-container {
   margin-top: 200px;
+  color: red;
 }
 
 #target-letter {
@@ -40,3 +41,17 @@
 .glyphicon-remove {
   color : #CD2626
 }
+
+/* I am adding a CSS approach to add predefined sentences to appear one line at a time in my html document - INSERT- */
+/* Global */
+body {
+  background-color:lightblue;
+  text-align: center;
+  color: red;
+  padding-top:10em;
+}
+
+* { color: red; text-decoration: none;}
+ /* 1×0.5×0.25× Rerun
+Resources */
+/* ------------------------------------------------- */
