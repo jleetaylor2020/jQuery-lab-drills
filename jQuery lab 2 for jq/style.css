@@ -3,3 +3,20 @@
     background-color: blue;
     border: solid black;
 }
+
+.nicecolor {
+    color:red;
+    width:200px;
+    height:200px;
+   }
+
+  .nicecolor:hover {
+    background-color:blue;
+   }
+
+   /* .clicked {
+       background-color: yellow;
+       color: rgba(red, green, blue, alpha);
+   } */
+
+ 
